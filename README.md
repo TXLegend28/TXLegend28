@@ -5,6 +5,7 @@
 ## 🎭 The Multidimensional Creator
 
 
+mermaid
 mindmap
   root((TXLegend28))
     🎮 Professional Gaming
