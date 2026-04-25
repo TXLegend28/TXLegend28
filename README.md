@@ -18,12 +18,6 @@
 | 🎹 Lite Music Producer | Beat making & composition | FL Studio sessions |
 | 📚 Mathematics Tutor | From algebra to calculus | Accepting students |
 
-```
-<div align="center">
-  <img src="https://tenor.com/en-ZA/view/codm-gif-24175004.gif" alt="Call of Duty Mobile Gameplay" width="600" />
-</div>
-```
-
 ## 🛠️ Technology Arsenal
 
 ### Programming Languages
