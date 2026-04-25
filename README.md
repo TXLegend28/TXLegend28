@@ -29,8 +29,9 @@ mindmap
       Performance Tuning
 
 
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
-<br>
+<div align="center">
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhfmmgr5ncpzlsh6v2ug.gif" alt="Call of Duty Mobile Gameplay" width="600" />
+</div>
 
 ## 🚀 What I Do
 
