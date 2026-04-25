@@ -33,7 +33,7 @@ mindmap
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Gaming Animation" width="600" />
+  <img src="https://media.giphy.com/media/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA/giphy.gif" alt="Gaming Animation" width="600" />
 </div>
 
 ## 🚀 What I Do
@@ -49,7 +49,7 @@ mindmap
 | 📚 Mathematics Tutor | From algebra to calculus | Accepting students |
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYEqE5CqlQzLkFO/giphy.gif" alt="Call of Duty Mobile Gameplay" width="600" />
+  <img src="https://tenor.com/en-ZA/view/codm-gif-24175004.gif" alt="Call of Duty Mobile Gameplay" width="600" />
 </div>
 
 ## 🛠️ Technology Arsenal
@@ -179,6 +179,3 @@ coding_session:
   
   🎮 📐 🎧 💻 🧠
 </div>
-```
-
-The README now fully captures your multidimensional identity while maintaining the fluid GitHub stats tracking and our ongoing AI collaboration acknowledgment!
