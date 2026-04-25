@@ -84,19 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TXLegend28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9BF0" alt="Top Languages" width="45%" />
 </p>
 
-## 🎯 Deepseek Integration Stats
-
-class DeepseekCollaboration:
-    def __init__(self):
-        self.hours_coded_together = "250+ hours"
-        self.problems_solved = "180+"
-        self.learning_acceleration = "4x faster"
-        self.debugging_efficiency = "50% reduction"
-        self.favorite_pairing = "Spring Boot + Deepseek"
-    def daily_workflow(self):
-        return "Code → Debug → Refine → Deploy with AI assistance"
-
-
 ## 🗂️ Recent Code Drops
 
 | Project | Description | Stack |
@@ -105,7 +92,7 @@ class DeepseekCollaboration:
 | [Practical4](https://github.com/TXLegend28/Practical4) | Core OOP concepts | Java, CodeBlocks |
 | [SpringbootAssignment1.1a](https://github.com/TXLegend28/SpringbootAssignment1.1a) | REST API development | Spring Boot, Perl |
 
-## 🎧 Currently Vibing
+## 📈 Current Vibing
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TXLegend28&theme=radical" alt="Profile Details" width="90%" />
@@ -127,7 +114,7 @@ class DeepseekCollaboration:
   
   **"From algebra equations to frag grenades — I calculate every move"**
   
-  *Pro gamer by night • Code architect by day • AI-powered always*
+  *Pro gamer by night • Student & Code architect by day • AI-powered always*
   
   🎮 📐 🎧 💻 🧠
 </div>
