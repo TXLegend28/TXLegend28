@@ -30,7 +30,7 @@ mindmap
 
 
 <div align="center">
-  <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Gaming Animation" width="600" />
+  <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Call of Duty Mobile Gameplay" width="600" />
 </div>
 
 ## 🚀 What I Do
@@ -113,7 +113,6 @@ mindmap
 
 ## 🎯 Deepseek Integration Stats
 
-
 class DeepseekCollaboration:
     def __init__(self):
         self.hours_coded_together = "250+ hours"
@@ -134,23 +133,6 @@ class DeepseekCollaboration:
 | [SpringbootAssignment1.1a](https://github.com/TXLegend28/SpringbootAssignment1.1a) | REST API development | Spring Boot, Perl |
 
 ## 🎧 Currently Vibing
-
-
-production_session:
-  daw: FL Studio 21
-  genre: [Trap, Lo-fi, Electronic]
-  status: "Mixing new beat"
-  
-gaming_session:
-  game: Call of Duty Mobile
-  rank: Legendary (Pro tier)
-  status: "Climbing leaderboards"
-
-coding_session:
-  focus: Spring Boot Microservices
-  ai_pair: Deepseek
-  status: "Optimizing database queries"
-
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TXLegend28&theme=radical" alt="Profile Details" width="90%" />
