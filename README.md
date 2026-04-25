@@ -1,34 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+TXLegend28;Professional+Gamer;Applied+Mathematician;Sound+Engineer;Computer+Enthusiast;Android+Enthusiast;Mathematics+Tutor;Lite+Music+Producer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+TXLegend28 (Gareth);Professional+Gamer;Applied+Mathematician;Sound+Engineer;Computer+Enthusiast;Android+Enthusiast;Mathematics+Tutor;Lite+Music+Producer" alt="Typing SVG" />
 </div>
-
-## 🎭 The Multidimensional Creator
-
-
-mermaid
-mindmap
-  root((TXLegend28))
-    🎮 Professional Gaming
-      Call of Duty Mobile Pro
-      Competitive Strategy
-      Reaction Training
-    📐 Applied Mathematics
-      Algorithm Design
-      Statistical Analysis
-      Tutoring & Mentorship
-    🎧 Sound Engineering
-      Audio Processing
-      Mix & Master
-      FL Studio Workflows
-    🤖 AI Integration
-      Deepseek Power User
-      Grok AI
-      OpenAI APIs
-    📱 Android Enthusiast
-      Custom ROMs
-      Mobile Dev
-      Performance Tuning
-
 
 <div align="center">
   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmhfmmgr5ncpzlsh6v2ug.gif" alt="Call of Duty Mobile Gameplay" width="600" />
