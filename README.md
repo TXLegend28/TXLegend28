@@ -30,7 +30,7 @@ mindmap
 
 
 <div align="center">
-  <img src="https://magiccopy.xyz/assets/images/hadder.gif" alt="Call of Duty Mobile Gameplay" width="600" />
+  <img src="https://tenor.com/en-ZA/view/codm-gif-24175004.gif" alt="Call of Duty Mobile Gameplay" width="600" />
 </div>
 
 ## 🚀 What I Do
