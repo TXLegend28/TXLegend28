@@ -1,13 +1,13 @@
 Here's the enhanced README with your complete profile identity, gaming animations, and all the tech icons you requested:
 
-```markdown
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+TXLegend28;Professional+Gamer;Applied+Mathematician;Sound+Engineer;Computer+Enthusiast;Android+Enthusiast;Mathematics+Tutor;Lite+Music+Producer" alt="Typing SVG" />
 </div>
 
 ## 🎭 The Multidimensional Creator
 
-```mermaid
+
 mindmap
   root((TXLegend28))
     🎮 Professional Gaming
@@ -30,7 +30,7 @@ mindmap
       Custom ROMs
       Mobile Dev
       Performance Tuning
-```
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Gaming Animation" width="600" />
@@ -116,7 +116,7 @@ mindmap
 
 ## 🎯 Deepseek Integration Stats
 
-```python
+
 class DeepseekCollaboration:
     def __init__(self):
         self.hours_coded_together = "250+ hours"
@@ -127,7 +127,7 @@ class DeepseekCollaboration:
     
     def daily_workflow(self):
         return "Code → Debug → Refine → Deploy with AI assistance"
-```
+
 
 ## 🗂️ Recent Code Drops
 
@@ -139,7 +139,7 @@ class DeepseekCollaboration:
 
 ## 🎧 Currently Vibing
 
-```yaml
+
 production_session:
   daw: FL Studio 21
   genre: [Trap, Lo-fi, Electronic]
@@ -154,7 +154,7 @@ coding_session:
   focus: Spring Boot Microservices
   ai_pair: Deepseek
   status: "Optimizing database queries"
-```
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TXLegend28&theme=radical" alt="Profile Details" width="90%" />
@@ -172,6 +172,7 @@ coding_session:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TXLegend28&label=Profile%20Views&color=2D9BF0&style=flat" alt="Profile Views" />
+
   
   **"From algebra equations to frag grenades — I calculate every move"**
   
