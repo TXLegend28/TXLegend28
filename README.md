@@ -124,7 +124,6 @@ class DeepseekCollaboration:
         self.learning_acceleration = "4x faster"
         self.debugging_efficiency = "50% reduction"
         self.favorite_pairing = "Spring Boot + Deepseek"
-    
     def daily_workflow(self):
         return "Code → Debug → Refine → Deploy with AI assistance"
 
