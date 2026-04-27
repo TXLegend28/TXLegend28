@@ -80,13 +80,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TXLegend28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9BF0" alt="Top Languages" width="45%" />
 </p>
 
-## 🗂️ Recent Code Drops
+## 🗂️ My Code Drops
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Practical5](https://github.com/TXLegend28/Practical5) | Advanced Java implementations | Java, IntelliJ |
-| [Practical4](https://github.com/TXLegend28/Practical4) | Core OOP concepts | Java, CodeBlocks |
-| [SpringbootAssignment1.1a](https://github.com/TXLegend28/SpringbootAssignment1.1a) | REST API development | Spring Boot, Perl |
+| [SpringbootAssignment1.1a](https://github.com/TXLegend28/SpringbootAssignment1.1a) | API/Web development | Java, Spring Boot, IntelliJ & Xampp |
+| [TextbookMarketplace](https://github.com/TXLegend28/TextbookMarketplace) | APK Development | Java, Gradle, Android Studio |
 
 ## 📈 Current Vibing
 
