@@ -86,6 +86,7 @@
 |---------|-------------|-------|
 | [SpringbootAssignment1.1a](https://github.com/TXLegend28/SpringbootAssignment1.1a) | API/Web development | Java, Spring Boot, IntelliJ & Xampp |
 | [TextbookMarketplace](https://github.com/TXLegend28/TextbookMarketplace) | APK Development | Java, Gradle, Android Studio |
+| [SmartQ](https://github.com/TXLegend28/smartq-project) | API/Web Development | Python, Django, Terminal, Antigravity |
 
 ## 📈 Current Vibing
 
